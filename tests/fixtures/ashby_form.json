@@ -1,0 +1,342 @@
+{
+ "data": {
+  "jobPosting": {
+   "id": "e6924f60-c8cc-42b3-9d05-2442ec30e12d",
+   "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+   "departmentName": "Engineering & Product",
+   "locationName": "Remote",
+   "workplaceType": "Remote",
+   "employmentType": "FullTime",
+   "descriptionHtml": "<h2>About ElevenLabs</h2><p style=\"min-height:1.5em\">ElevenLabs is an AI research and product company transforming how we interact with technology.</p><p style=\"min-height:1.5em\">We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always.<br /><br />We have expanded from voice into three main platforms:</p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale.</p></li><li><p style=\"min-height:1.5em\">ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages.</p></li><li><p style=\"min-height:1.5em\">ElevenAPI gives developers access to our leading AI audio foundational models.</p></li></ul><p style=\"min-height:1.5em\">Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you.</p><p style=\"min-height:1.5em\"></p><h2>How we work</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>High-velocity: </strong>Rapid experimentation, lean autonomous teams, and minimal bureaucracy.</p></li><li><p style=\"min-height:1.5em\"><strong>Impact not job titles: </strong>We don’t have job titles. Instead, it’s about the impact you have. No task is above or beneath you.</p></li><li><p style=\"min-height:1.5em\"><strong>AI first:</strong> We use AI to move faster with higher-quality results. We do this across the whole company—from engineering to growth to operations.</p></li><li><p style=\"min-height:1.5em\"><strong>Excellence everywhere: </strong>Everything we do should match the quality of our AI models.</p></li><li><p style=\"min-height:1.5em\"><strong>Global team: </strong>We prioritize your talent, not your location.</p></li></ul><p style=\"min-height:1.5em\"></p><h2>What we offer</h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\"><strong>Innovative culture:</strong> You’ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what’s possible.</p></li><li><p style=\"min-height:1.5em\"><strong>Growth paths: </strong>Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities.</p></li><li><p style=\"min-height:1.5em\"><strong>Learning &amp; development</strong>: ElevenLabs proactively supports professional development through an annual discretionary stipend.</p></li><li><p style=\"min-height:1.5em\"><strong>Social travel</strong>: We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose.</p></li><li><p style=\"min-height:1.5em\"><strong>Annual team offsite: </strong>Each year, we bring your entire team together in a new location - past offsites have included Croatia, Italy and Cancún</p></li><li><p style=\"min-height:1.5em\"><strong>Co-working</strong>: If you’re not located near one of our main hubs, we offer a monthly co-working stipend.</p></li></ul><p style=\"min-height:1.5em\"><strong>About the role</strong><br />You’ll build the tools that make Studio a video editor people want to live in. These include transitions, color grading and elements libraries all built on top of our in-house engine. You’ll also build presets, so a user can get the effect they want without tweaking 20 individual controls.<br />The work mixes greenfield features with polish on the existing editor. An example of the polish is letting editors coming from Premiere Pro or Final Cut Pro rebind their keyboard shortcuts in one step. You’ll write proposals, get fast feedback, and own features through launch, including the marketing moment.<br />You’re a product-minded, frontend-leaning full-stack engineer. Deep backend skills aren’t required.</p><p style=\"min-height:1.5em\"><br /><strong>Requirements</strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Strong frontend engineer who has built complex, interactive UIs.</p></li><li><p style=\"min-height:1.5em\">Enough full-stack ability to work across the stack, but deep backend expertise isn’t needed.</p></li><li><p style=\"min-height:1.5em\">Evidence of product responsibility: side projects, open source, or product-facing work.</p></li><li><p style=\"min-height:1.5em\">Thrives in a fast-moving, startup-style environment, and takes ownership with minimal hand-holding.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">We are an equal opportunity employer and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, veteran status, disability or other legally protected statuses.</p>",
+   "compensationTierSummary": null,
+   "applicationForm": {
+    "id": "2e75da05-d053-46f5-b749-8b489931ebb0",
+    "formControls": [
+     {
+      "identifier": "c5460209-52aa-4c49-87c0-6f881a8451df",
+      "title": "Submit"
+     }
+    ],
+    "errorMessages": [],
+    "formErrors": [],
+    "sections": [
+     {
+      "title": null,
+      "descriptionHtml": null,
+      "isHidden": null,
+      "fieldEntries": [
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0__systemfield_name",
+        "field": {
+         "id": "7f1c49ed-eb58-4bf4-9fd2-16183a909ce5",
+         "path": "_systemfield_name",
+         "humanReadablePath": "Name",
+         "title": "Name",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "String",
+         "__autoSerializationID": "StringField"
+        },
+        "isRequired": true,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       },
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0__systemfield_email",
+        "field": {
+         "id": "96b40f5c-4e64-41a5-b520-ba3c2c9ff141",
+         "path": "_systemfield_email",
+         "humanReadablePath": "Email",
+         "title": "Email",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "Email",
+         "__autoSerializationID": "EmailField"
+        },
+        "isRequired": true,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       },
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0_3294881d-4f31-4ea3-99d7-780cc663fd75",
+        "field": {
+         "id": "3294881d-4f31-4ea3-99d7-780cc663fd75",
+         "path": "3294881d-4f31-4ea3-99d7-780cc663fd75",
+         "humanReadablePath": "",
+         "title": "Location",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "Location",
+         "locationTypes": [
+          "Country",
+          "Region"
+         ],
+         "__autoSerializationID": "LocationField"
+        },
+        "isRequired": true,
+        "descriptionHtml": "<p>Country you're currently residing in</p>",
+        "isHidden": null,
+        "fieldValue": null
+       },
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0__systemfield_resume",
+        "field": {
+         "id": "22f03a8b-6bd9-44dd-8b3d-8632e95edc4e",
+         "path": "_systemfield_resume",
+         "humanReadablePath": "Resume",
+         "title": "Resume",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "File",
+         "__autoSerializationID": "FileField"
+        },
+        "isRequired": true,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       },
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0_2d6155d4-9711-47be-8e6e-fc7f77f2d115",
+        "field": {
+         "id": "2d6155d4-9711-47be-8e6e-fc7f77f2d115",
+         "path": "2d6155d4-9711-47be-8e6e-fc7f77f2d115",
+         "humanReadablePath": "",
+         "title": "Link to your GitHub",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "String",
+         "__autoSerializationID": "StringField"
+        },
+        "isRequired": false,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       },
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0_3f60bed0-2ffd-455c-905b-f8c2ca2b96f1",
+        "field": {
+         "id": "3f60bed0-2ffd-455c-905b-f8c2ca2b96f1",
+         "path": "3f60bed0-2ffd-455c-905b-f8c2ca2b96f1",
+         "humanReadablePath": "",
+         "title": "Link to your LinkedIn profile",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "String",
+         "__autoSerializationID": "StringField"
+        },
+        "isRequired": false,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       },
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0_346d510a-43b6-4b73-bdb5-4e553159c3c6",
+        "field": {
+         "id": "346d510a-43b6-4b73-bdb5-4e553159c3c6",
+         "path": "346d510a-43b6-4b73-bdb5-4e553159c3c6",
+         "humanReadablePath": "",
+         "title": "How did you hear about ElevenLabs?",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "ValueSelect",
+         "selectableValues": [
+          {
+           "label": "I'm a user",
+           "value": "I'm a user"
+          },
+          {
+           "label": "News article",
+           "value": "News article"
+          },
+          {
+           "label": "LinkedIn ",
+           "value": "LinkedIn "
+          },
+          {
+           "label": "Social media",
+           "value": "Social media"
+          },
+          {
+           "label": "In person event",
+           "value": "In person event"
+          },
+          {
+           "label": "Referral",
+           "value": "Referral"
+          },
+          {
+           "label": "I was reached out to ",
+           "value": "I was reached out to "
+          },
+          {
+           "label": "Other (please specify) ",
+           "value": "Other (please specify) "
+          }
+         ],
+         "__autoSerializationID": "ValueSelectField"
+        },
+        "isRequired": true,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       },
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0_27ab5d50-0534-49d0-b485-c78460168661",
+        "field": {
+         "id": "27ab5d50-0534-49d0-b485-c78460168661",
+         "path": "27ab5d50-0534-49d0-b485-c78460168661",
+         "humanReadablePath": "",
+         "title": "If other, please specify below",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "LongText",
+         "__autoSerializationID": "LongTextField"
+        },
+        "isRequired": false,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       }
+      ]
+     },
+     {
+      "title": "",
+      "descriptionHtml": "<p></p>",
+      "isHidden": null,
+      "fieldEntries": [
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0_681add49-d580-4191-abd7-7db47a2471ca",
+        "field": {
+         "id": "0e78e906-f99e-4bba-9413-9a65393fafda",
+         "path": "681add49-d580-4191-abd7-7db47a2471ca",
+         "humanReadablePath": "",
+         "title": "Are you comfortable completing a live coding interview without AI assistance?",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "Boolean",
+         "__autoSerializationID": "BooleanField"
+        },
+        "isRequired": true,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       },
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0_1752c370-bedf-4250-bfed-001cc7b644e5",
+        "field": {
+         "id": "6c7758d8-7dc8-4226-a5f8-1a6a4b8d2151",
+         "path": "1752c370-bedf-4250-bfed-001cc7b644e5",
+         "humanReadablePath": "",
+         "title": "Have you used ElevenLabs products, in either commercial work or personal side project?",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "Boolean",
+         "__autoSerializationID": "BooleanField"
+        },
+        "isRequired": true,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       },
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0_8fac8eb9-db7b-49a3-bd86-f37769248db0",
+        "field": {
+         "id": "f0ab2fdb-6a56-4b22-9383-1366ce10267b",
+         "path": "8fac8eb9-db7b-49a3-bd86-f37769248db0",
+         "humanReadablePath": "",
+         "title": "Are you currently in full-time education?",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "Boolean",
+         "__autoSerializationID": "BooleanField"
+        },
+        "isRequired": true,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       },
+       {
+        "id": "2e75da05-d053-46f5-b749-8b489931ebb0_3a72c26b-a6bc-4e57-8ad9-6f21bd27c6c5",
+        "field": {
+         "id": "249a670b-0f64-4e1a-97f5-842f1c6eac0a",
+         "path": "3a72c26b-a6bc-4e57-8ad9-6f21bd27c6c5",
+         "humanReadablePath": "",
+         "title": "What is your current notice period?",
+         "isNullable": false,
+         "isPrivate": false,
+         "isDeactivated": false,
+         "isMany": false,
+         "metadata": {},
+         "type": "ValueSelect",
+         "selectableValues": [
+          {
+           "label": "Up to 4 weeks",
+           "value": "Up to 4 weeks"
+          },
+          {
+           "label": "5-8 weeks",
+           "value": "5-8 weeks",
+           "isArchived": false
+          },
+          {
+           "label": "9-12 weeks",
+           "value": "9-12 weeks",
+           "isArchived": false
+          },
+          {
+           "label": "12+ weeks",
+           "value": "12+ weeks",
+           "isArchived": false
+          }
+         ],
+         "__autoSerializationID": "ValueSelectField"
+        },
+        "isRequired": true,
+        "descriptionHtml": null,
+        "isHidden": null,
+        "fieldValue": null
+       }
+      ]
+     }
+    ],
+    "sourceFormDefinitionId": "9ad0cff4-a2ab-4d02-a47f-ddd64a7c9994"
+   },
+   "recaptchaAction": "job_apply_low"
+  }
+ }
+}

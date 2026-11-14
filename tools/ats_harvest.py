@@ -13,6 +13,7 @@ boards.txt 格式(每行一个):
     workable:huggingface
 """
 import json
+import os
 import re
 import ssl
 import sys

@@ -16,10 +16,11 @@ import sys
 import threading
 import time
 import urllib.request
+from pathlib import Path
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-BASE = r"<project>"
+BASE = os.environ.get("TOOLKIT_BASE") or os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir)
 EVID = os.path.join(BASE, "evidence")
 CDP_PORT = 9337  # 回退值：浏览器用固定端口启动时用
 EDGE_PROFILE = str(Path(os.environ.get("LOCALAPPDATA", "")) / "hermes" / "browser-profile" / "edge")

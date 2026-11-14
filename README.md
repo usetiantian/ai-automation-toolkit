@@ -84,7 +84,8 @@ If a required field cannot be mapped, the whole posting is skipped and reported.
 ## Verification
 
 ```bash
-python tests/test_ashby_apply.py
+python tests/test_ashby_apply.py    # direct
+python -m pytest -q                 # same suite, pytest entry point
 ```
 
 ```
@@ -95,6 +96,11 @@ The suite checks the real GraphQL schema against live endpoints, the field
 mapping rules, the file-upload failure path, id/org parsing, and the
 posting-mismatch guard — including negative controls that must fail if the
 guard is removed.
+
+Live fixtures are committed under `tests/fixtures/` so a fresh clone runs
+without setup. If they are missing, the suite regenerates them from
+`tools/` and says exactly which command failed — it never aborts with a bare
+`FileNotFoundError`.
 
 ---
 

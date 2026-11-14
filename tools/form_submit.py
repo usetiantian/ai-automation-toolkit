@@ -22,7 +22,7 @@ import time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from browser_form import Page, new_tab, save_evidence  # noqa: E402
 
-BASE = r"<project>"
+BASE = os.environ.get("TOOLKIT_BASE") or os.path.join(os.path.dirname(os.path.abspath(__file__)), os.pardir)
 
 # 询盘正文
 def build_message(email, name="Kai Zhang", company="Linforge Studio"):
